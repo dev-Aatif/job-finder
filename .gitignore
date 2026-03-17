@@ -1,0 +1,8 @@
+__pycache__/
+.env
+database.json
+monitor.log
+page.html
+test_file.txt
+.env.example
+__pycache__
